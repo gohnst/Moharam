@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+}
+video{
+    width: 100%;
+}
+body{
+    background-color: rgb(187, 173, 173);
+}
